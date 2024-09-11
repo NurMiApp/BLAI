@@ -1,0 +1,16 @@
+{
+  "name": "Bumplab.AI",
+  "description": "Advanced AI solutions for data analysis and automation.",
+  "version": "1.0",
+  "settings": {
+    "language": "en",
+    "region": "Global",
+    "capabilities": {
+      "data_processing": true,
+      "machine_learning": true,
+      "automation": true
+    }
+  },
+  "contact": {
+    "email": "support@bumplab.ai",
+    "phone": "+8 200-2346"
